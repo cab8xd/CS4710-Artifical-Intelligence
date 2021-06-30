@@ -1,0 +1,16 @@
+true
+I KNOW THAT Batman is crazy
+I KNOW THAT People who enjoy spelunking are not sane
+I KNOW THAT Bruce Wayne spends his time in a cave
+BECAUSE Bruce Wayne spends his time in a cave I KNOW THAT Bruce Wayne enjoys spelunking
+I THUS KNOW Bruce Wayne enjoys spelunking AND People who enjoy spelunking are not sane
+BECAUSE Bruce Wayne enjoys spelunking AND People who enjoy spelunking are not sane I KNOW THAT Bruce Wayne is not a sane and well-adjusted individual
+I THUS KNOW Bruce Wayne is not a sane and well-adjusted individual AND Batman is crazy
+I THUS KNOW 
+I KNOW THAT Bruce Wayne still owns Wayne Enterprises
+I THUS KNOW Bruce Wayne still owns Wayne Enterprises AND NOT Bane has crashed Wayne Enterprises' stock
+BECAUSE NOT Bruce Wayne still owns Wayne Enterprises AND Bane has crashed Wayne Enterprises' stock I KNOW THAT Bruce Wayne is rich
+I THUS KNOW Bruce Wayne is rich AND Bruce Wayne is not a sane and well-adjusted individual AND Batman is crazy
+I KNOW THAT Batman is rich
+I THUS KNOW Batman is rich AND Bruce Wayne is rich AND Bruce Wayne is not a sane and well-adjusted individual AND Batman is crazy
+BECAUSE Batman is rich AND Bruce Wayne is rich AND Bruce Wayne is not a sane and well-adjusted individual AND Batman is crazy I KNOW THAT Bruce Wayne is Batman

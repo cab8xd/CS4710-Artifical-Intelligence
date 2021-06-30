@@ -1,0 +1,54 @@
+Teach -R A = "a"
+Teach -L B = "b"
+Teach -L C = "c"
+List
+Teach A = true
+List
+Teach A -> B
+List
+Teach A -> C
+List
+Query B
+Query C 
+Query B&C
+0
+
+****
+OH Questions:
+* Ask about NOTs output and implementation 
+* Ask about inputs/tests/submissions syntax (including stdin line)
+* Ask about code citation
+* Anything else to watch out for?
+* keep track of truth values, can be very similar to query.
+
+T --> False
+!T
+I KNOW THAT NOT T
+
+!T&B
+I KNOW THAT T
+I KNOW THAT B
+THUS I KNOW THAT NOT T AND B
+
+B
+where !T -> B
+I KNOW THAT T
+BECAUSE I KNOW THAT NOT B I KNOW THAT T
+
+!T&B&C
+I KNOW THAT T
+I KNOW THAT B
+I KNOW THAT C
+THUS I KNOW THAT T AND B <-- nots just reserved for end or put it at this conclusion too?
+THUS I KNOW THAT NOT T AND B AND C
+
+
+!(T&B&C)
+[where T is true not False]
+I KNOW THAT T
+I KNOW THAT B
+I KNOW THAT C
+THUS I KNOW THAT T AND B <-- nots just reserved for end or put it at this conclusion too?
+THUS I KNOW THAT NOT (T AND B AND C)
+
+

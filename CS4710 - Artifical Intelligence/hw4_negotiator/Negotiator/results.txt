@@ -1,0 +1,208 @@
+SAMPLE SCENARIO. CSV
+===================
+NEGOTIATOR A = STUPID 
+NEGOTIATOR B = GREATER THAN HALF
+Turkey 1, 1
+Stuffing 4, 4
+Cranberry Sauce 2, 2
+Pumpkin Pie 5, 5
+Mashed Potatoes 3, 3
+Deal Reached
+Successful negotiation:
+	Negotiator A: 11
+	Negotiator B: 4
+Final result:
+	Negotiator A: 11
+	Negotiator B: 4
+
+Turkey 1, 1
+Stuffing 4, 4
+Cranberry Sauce 2, 2
+Pumpkin Pie 5, 5
+Mashed Potatoes 3, 3
+Deal Reached
+Successful negotiation:
+	Negotiator A: 12
+	Negotiator B: 3
+Final result:
+	Negotiator A: 12
+	Negotiator B: 3
+
+Turkey 1, 1
+Stuffing 4, 4
+Cranberry Sauce 2, 2
+Pumpkin Pie 5, 5
+Mashed Potatoes 3, 3
+Deal Reached
+Successful negotiation:
+	Negotiator A: 15
+	Negotiator B: 0
+Final result:
+	Negotiator A: 15
+	Negotiator B: 0
+Turkey 1, 1
+Stuffing 4, 4
+Cranberry Sauce 2, 2
+Pumpkin Pie 5, 5
+Mashed Potatoes 3, 3
+Deal Reached
+Successful negotiation:
+	Negotiator A: 10
+	Negotiator B: 5
+Final result:
+	Negotiator A: 10
+	Negotiator B: 5
+
+Turkey 1, 1
+Stuffing 4, 4
+Cranberry Sauce 2, 2
+Pumpkin Pie 5, 5
+Mashed Potatoes 3, 3
+Deal Reached
+Successful negotiation:
+	Negotiator A: 13
+	Negotiator B: 2
+Final result:
+	Negotiator A: 13
+	Negotiator B: 2
+Turkey 1, 1
+Stuffing 4, 4
+Cranberry Sauce 2, 2
+Pumpkin Pie 5, 5
+Mashed Potatoes 3, 3
+Failed negotiation:
+	Negotiator A: -5
+	Negotiator B: -5
+Final result:
+	Negotiator A: -5
+	Negotiator B: -5
+Turkey 1, 1
+Stuffing 4, 4
+Cranberry Sauce 2, 2
+Pumpkin Pie 5, 5
+Mashed Potatoes 3, 3
+Failed negotiation:
+	Negotiator A: -5
+	Negotiator B: -5
+Final result:
+	Negotiator A: -5
+	Negotiator B: -5
+
+Turkey 1, 1
+Stuffing 4, 4
+Cranberry Sauce 2, 2
+Pumpkin Pie 5, 5
+Mashed Potatoes 3, 3
+Deal Reached
+Successful negotiation:
+	Negotiator A: 7
+	Negotiator B: 8
+Final result:
+	Negotiator A: 7
+	Negotiator B: 8
+Turkey 1, 1
+Stuffing 4, 4
+Cranberry Sauce 2, 2
+Pumpkin Pie 5, 5
+Mashed Potatoes 3, 3
+Deal Reached
+Successful negotiation:
+	Negotiator A: 4
+	Negotiator B: 11
+Final result:
+	Negotiator A: 4
+	Negotiator B: 11
+
+Turkey 1, 1
+Stuffing 4, 4
+Cranberry Sauce 2, 2
+Pumpkin Pie 5, 5
+Mashed Potatoes 3, 3
+Deal Reached
+Successful negotiation:
+	Negotiator A: 11
+	Negotiator B: 4
+Final result:
+	Negotiator A: 11
+	Negotiator B: 4
+===================
+SAMPLE SCENARIO2. CSV
+===================
+NEGOTIATOR A = STUPID 
+NEGOTIATOR B = GREATER THAN HALF
+-----
+Turkey 1, 4
+Gravy 4, 1
+Stuffing 3, 2
+Jam 2, 3
+Deal Reached
+Successful negotiation:
+	Negotiator A: 9
+	Negotiator B: 4
+Final result:
+	Negotiator A: 9
+	Negotiator B: 4
+----
+Turkey 1, 4
+Gravy 4, 1
+Stuffing 3, 2
+Jam 2, 3
+Deal Reached
+Successful negotiation:
+	Negotiator A: 6
+	Negotiator B: 6
+Final result:
+	Negotiator A: 6
+	Negotiator B: 6
+----
+Turkey 1, 4
+Gravy 4, 1
+Stuffing 3, 2
+Jam 2, 3
+Deal Reached
+Successful negotiation:
+	Negotiator A: 7
+	Negotiator B: 7
+Final result:
+	Negotiator A: 7
+	Negotiator B: 7
+----
+Turkey 1, 4
+Gravy 4, 1
+Stuffing 3, 2
+Jam 2, 3
+Deal Reached
+Successful negotiation:
+	Negotiator A: 10
+	Negotiator B: 0
+Final result:
+	Negotiator A: 10
+	Negotiator B: 0
+----
+Turkey 1, 4
+Gravy 4, 1
+Stuffing 3, 2
+Jam 2, 3
+Deal Reached
+Successful negotiation:
+	Negotiator A: 5
+	Negotiator B: 5
+Final result:
+	Negotiator A: 5
+	Negotiator B: 5
+----
+Turkey 1, 4
+Gravy 4, 1
+Stuffing 3, 2
+Jam 2, 3
+Deal Reached
+Successful negotiation:
+	Negotiator A: 3
+	Negotiator B: 3
+Final result:
+	Negotiator A: 3
+	Negotiator B: 3
+----
+STUPID, GREATER THAN HALFV2
+1
+====

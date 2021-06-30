@@ -1,0 +1,50 @@
+true
+I KNOW THAT My backward chaining is working
+BECAUSE My backward chaining is working I KNOW THAT I can solve this simple instance
+
+
+
+                    
+            # TA notes
+            # if the expression's definition 
+            # wrong order of statements. 
+
+    # ELSE the rule found is false. -- check if in list of facts 
+       # Iterate through the rules, for each rule - split rule into parts (.split)
+        # with split list...parts = rules.split()
+            # expression is first part of the split rule A&C -> B
+            # looping, IF you can't get the definiton of expression 
+                # I THUS KNOW THAT + exp
+            # print BECAUSE + rule, I KNOW THAT + learned_variable_definition
+            # return True. 
+        # if you can't find the variable at ALL
+         # exit, not definited
+        # I KNOW IT IS NOT TRUE THAT + variable
+        # return false
+
+
+----
+Psuedo
+-----
+[ Root var base cases]
+else: 
+ if the exp corresponds to the rules / is a learned variable:
+    learned_var = exp
+    iterate through the coresponding rules to the expression (learned variable)
+                if you CAN'T get the definition of the rule:
+                    I THUS KNOW THAT + exp
+
+                BECAUSE + exp + I KNOW THAT + learned_variable_definition
+                return True
+    if the variable doesn't exist
+        return False
+I KNOW IT IS NOT TRUE THAT + variable
+# return false
+            
+X --> learned variable --> get rule Y&A&D&Z
+---> iterate through Y&A&D&Z
+    I THUS KOW THAT Y&A&D&Z
+ Can get definition ---> BECAUSE "Y&A&D&Z" I KNOW THAT "X". return True
+
+
+     

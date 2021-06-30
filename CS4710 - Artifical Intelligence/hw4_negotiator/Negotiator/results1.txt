@@ -1,0 +1,1051 @@
+                             STUPID (A) GREATER THAN HALF (B)
+=====
+Deal Reached
+Successful negotiation:
+	Negotiator A: 9
+	Negotiator B: 6
+Final result:
+	Negotiator A: 9
+	Negotiator B: 6
+----
+Deal Reached
+Successful negotiation:
+	Negotiator A: 12
+	Negotiator B: 3
+Final result:
+	Negotiator A: 12
+	Negotiator B: 3
+----
+Deal Reached
+Successful negotiation:
+	Negotiator A: 12
+	Negotiator B: 3
+Final result:
+	Negotiator A: 12
+	Negotiator B: 3
+----
+Deal Reached
+Successful negotiation:
+	Negotiator A: 7
+	Negotiator B: 8
+Final result:
+	Negotiator A: 7
+	Negotiator B: 8
+----
+Deal Reached
+Successful negotiation:
+	Negotiator A: 14
+	Negotiator B: 1
+Final result:
+	Negotiator A: 14
+	Negotiator B: 1
+----
+Deal Reached
+Successful negotiation:
+	Negotiator A: 13
+	Negotiator B: 2
+Final result:
+	Negotiator A: 13
+	Negotiator B: 2
+----
+Failed negotiation:
+	Negotiator A: -5
+	Negotiator B: -5
+Final result:
+	Negotiator A: -5
+	Negotiator B: -5
+----
+Deal Reached
+Successful negotiation:
+	Negotiator A: 6
+	Negotiator B: 9
+Final result:
+	Negotiator A: 6
+	Negotiator B: 9
+----
+Deal Reached
+Successful negotiation:
+	Negotiator A: 10
+	Negotiator B: 5
+Final result:
+	Negotiator A: 10
+	Negotiator B: 5
+----
+Deal Reached
+Successful negotiation:
+	Negotiator A: 12
+	Negotiator B: 3
+Final result:
+	Negotiator A: 12
+	Negotiator B: 3
+----
+SCENARIO 2
+======
+Deal Reached
+Successful negotiation:
+	Negotiator A: 4
+	Negotiator B: 4
+Final result:
+	Negotiator A: 4
+	Negotiator B: 4
+----
+Failed negotiation:
+	Negotiator A: -4
+	Negotiator B: -4
+Final result:
+	Negotiator A: -4
+	Negotiator B: -4
+----
+Deal Reached
+Successful negotiation:
+	Negotiator A: 4
+	Negotiator B: 9
+Final result:
+	Negotiator A: 4
+	Negotiator B: 9
+----
+Deal Reached
+Successful negotiation:
+	Negotiator A: 6
+	Negotiator B: 1
+Final result:
+	Negotiator A: 6
+	Negotiator B: 1
+----
+Deal Reached
+Successful negotiation:
+	Negotiator A: 7
+	Negotiator B: 2
+Final result:
+	Negotiator A: 7
+	Negotiator B: 2
+----
+Failed negotiation:
+	Negotiator A: -4
+	Negotiator B: -4
+Final result:
+	Negotiator A: -4
+	Negotiator B: -4
+----
+Deal Reached
+Successful negotiation:
+	Negotiator A: 6
+	Negotiator B: 1
+Final result:
+	Negotiator A: 6
+	Negotiator B: 1
+----
+Deal Reached
+Successful negotiation:
+	Negotiator A: 8
+	Negotiator B: 3
+Final result:
+	Negotiator A: 8
+	Negotiator B: 3
+----
+Deal Reached
+Successful negotiation:
+	Negotiator A: 5
+	Negotiator B: 5
+Final result:
+	Negotiator A: 5
+	Negotiator B: 5
+----
+Deal Reached
+Successful negotiation:
+	Negotiator A: 7
+	Negotiator B: 2
+Final result:
+	Negotiator A: 7
+	Negotiator B: 2
+----
+                            STUPID (A) VS GREATER THAN HALFV2 (B)
+SCENARIO1
+========
+Deal Reached
+Successful negotiation:
+	Negotiator A: 9
+	Negotiator B: 6
+Final result:
+	Negotiator A: 9
+	Negotiator B: 6
+----
+Deal Reached
+Successful negotiation:
+	Negotiator A: 12
+	Negotiator B: 3
+Final result:
+	Negotiator A: 12
+	Negotiator B: 3
+----
+Deal Reached
+Successful negotiation:
+	Negotiator A: 15
+	Negotiator B: 0
+Final result:
+	Negotiator A: 15
+	Negotiator B: 0
+----
+Deal Reached
+Successful negotiation:
+	Negotiator A: 9
+	Negotiator B: 6
+Final result:
+	Negotiator A: 9
+	Negotiator B: 6
+----
+Deal Reached
+Successful negotiation:
+	Negotiator A: 9
+	Negotiator B: 6
+Final result:
+	Negotiator A: 9
+	Negotiator B: 6
+----
+Deal Reached
+Successful negotiation:
+	Negotiator A: 9
+	Negotiator B: 6
+Final result:
+	Negotiator A: 9
+	Negotiator B: 6
+----
+Deal Reached
+Successful negotiation:
+	Negotiator A: 6
+	Negotiator B: 9
+Final result:
+	Negotiator A: 6
+	Negotiator B: 9
+----
+Failed negotiation:
+	Negotiator A: -5
+	Negotiator B: -5
+Final result:
+	Negotiator A: -5
+	Negotiator B: -5
+----
+Deal Reached
+Successful negotiation:
+	Negotiator A: 6
+	Negotiator B: 9
+Final result:
+	Negotiator A: 6
+	Negotiator B: 9
+----
+Deal Reached
+Successful negotiation:
+	Negotiator A: 3
+	Negotiator B: 12
+Final result:
+	Negotiator A: 3
+	Negotiator B: 12
+----
+SCENARIO2
+=======
+Deal Reached
+Successful negotiation:
+	Negotiator A: 5
+	Negotiator B: 5
+Final result:
+	Negotiator A: 5
+	Negotiator B: 5
+----
+Deal Reached
+Successful negotiation:
+	Negotiator A: 7
+	Negotiator B: 7
+Final result:
+	Negotiator A: 7
+	Negotiator B: 7
+----
+Deal Reached
+Successful negotiation:
+	Negotiator A: 5
+	Negotiator B: 5
+Final result:
+	Negotiator A: 5
+	Negotiator B: 5
+----
+Deal Reached
+Successful negotiation:
+	Negotiator A: 10
+	Negotiator B: 0
+Final result:
+	Negotiator A: 10
+	Negotiator B: 0
+----
+Deal Reached
+Successful negotiation:
+	Negotiator A: 5
+	Negotiator B: 5
+Final result:
+	Negotiator A: 5
+	Negotiator B: 5
+----
+Deal Reached
+Successful negotiation:
+	Negotiator A: 7
+	Negotiator B: 2
+Final result:
+	Negotiator A: 7
+	Negotiator B: 2
+----
+Deal Reached
+Successful negotiation:
+	Negotiator A: 6
+	Negotiator B: 1
+Final result:
+	Negotiator A: 6
+	Negotiator B: 1
+----
+Failed negotiation:
+	Negotiator A: -4
+	Negotiator B: -4
+Final result:
+	Negotiator A: -4
+	Negotiator B: -4
+----
+Deal Reached
+Successful negotiation:
+	Negotiator A: 5
+	Negotiator B: 5
+Final result:
+	Negotiator A: 5
+	Negotiator B: 5
+----
+Deal Reached
+Successful negotiation:
+	Negotiator A: 7
+	Negotiator B: 2
+Final result:
+	Negotiator A: 7
+	Negotiator B: 2
+----
+                            STUPID (A) IMPROVE (B)
+SCENARIO1
+=====
+Deal Reached
+Successful negotiation:
+	Negotiator A: 10
+	Negotiator B: 5
+Final result:
+	Negotiator A: 10
+	Negotiator B: 5
+----
+Deal Reached
+Successful negotiation:
+	Negotiator A: 5
+	Negotiator B: 10
+Final result:
+	Negotiator A: 5
+	Negotiator B: 10
+----
+Deal Reached
+Successful negotiation:
+	Negotiator A: 15
+	Negotiator B: 0
+Final result:
+	Negotiator A: 15
+	Negotiator B: 0
+----
+Deal Reached
+Successful negotiation:
+	Negotiator A: 12
+	Negotiator B: 3
+Final result:
+	Negotiator A: 12
+	Negotiator B: 3
+----
+Deal Reached
+Successful negotiation:
+	Negotiator A: 13
+	Negotiator B: 2
+Final result:
+	Negotiator A: 13
+	Negotiator B: 2
+----
+Deal Reached
+Successful negotiation:
+	Negotiator A: 7
+	Negotiator B: 8
+Final result:
+	Negotiator A: 7
+	Negotiator B: 8
+----
+Deal Reached
+Successful negotiation:
+	Negotiator A: 10
+	Negotiator B: 5
+Final result:
+	Negotiator A: 10
+	Negotiator B: 5
+----
+Failed negotiation:
+	Negotiator A: -5
+	Negotiator B: -5
+Final result:
+	Negotiator A: -5
+	Negotiator B: -5
+----
+Deal Reached
+Successful negotiation:
+	Negotiator A: 11
+	Negotiator B: 4
+Final result:
+	Negotiator A: 11
+	Negotiator B: 4
+----
+Deal Reached
+Successful negotiation:
+	Negotiator A: 10
+	Negotiator B: 5
+Final result:
+	Negotiator A: 10
+	Negotiator B: 5
+----
+SCENARIO2
+===
+Deal Reached
+Successful negotiation:
+	Negotiator A: 4
+	Negotiator B: 4
+Final result:
+	Negotiator A: 4
+	Negotiator B: 4
+----
+Deal Reached
+Successful negotiation:
+	Negotiator A: 3
+	Negotiator B: 3
+Final result:
+	Negotiator A: 3
+	Negotiator B: 3
+----
+Deal Reached
+Successful negotiation:
+	Negotiator A: 6
+	Negotiator B: 1
+Final result:
+	Negotiator A: 6
+	Negotiator B: 1
+----
+Deal Reached
+Successful negotiation:
+	Negotiator A: 9
+	Negotiator B: 4
+Final result:
+	Negotiator A: 9
+	Negotiator B: 4
+----
+Deal Reached
+Successful negotiation:
+	Negotiator A: 5
+	Negotiator B: 5
+Final result:
+	Negotiator A: 5
+	Negotiator B: 5
+----
+Deal Reached
+Successful negotiation:
+	Negotiator A: 10
+	Negotiator B: 0
+Final result:
+	Negotiator A: 10
+	Negotiator B: 0
+----
+Deal Reached
+Successful negotiation:
+	Negotiator A: 5
+	Negotiator B: 5
+Final result:
+	Negotiator A: 5
+	Negotiator B: 5
+----
+Deal Reached
+Successful negotiation:
+	Negotiator A: 6
+	Negotiator B: 1
+Final result:
+	Negotiator A: 6
+	Negotiator B: 1
+----
+Deal Reached
+Successful negotiation:
+	Negotiator A: 9
+	Negotiator B: 4
+Final result:
+	Negotiator A: 9
+	Negotiator B: 4
+----
+Deal Reached
+Successful negotiation:
+	Negotiator A: 6
+	Negotiator B: 1
+Final result:
+	Negotiator A: 6
+	Negotiator B: 1
+----
+                        GREATERTHANHALF (A) GREATERTHANHALFV2 (B)
+SCENARIO1
+=====
+Deal Reached
+Successful negotiation:
+	Negotiator A: 9
+	Negotiator B: 6
+Final result:
+	Negotiator A: 9
+	Negotiator B: 6
+----
+Deal Reached
+Successful negotiation:
+	Negotiator A: 9
+	Negotiator B: 6
+Final result:
+	Negotiator A: 9
+	Negotiator B: 6
+----
+Deal Reached
+Successful negotiation:
+	Negotiator A: 9
+	Negotiator B: 6
+Final result:
+	Negotiator A: 9
+	Negotiator B: 6
+----
+Deal Reached
+Successful negotiation:
+	Negotiator A: 12
+	Negotiator B: 3
+Final result:
+	Negotiator A: 12
+	Negotiator B: 3
+----
+Deal Reached
+Successful negotiation:
+	Negotiator A: 8
+	Negotiator B: 7
+Final result:
+	Negotiator A: 8
+	Negotiator B: 7
+----
+Deal Reached
+Successful negotiation:
+	Negotiator A: 9
+	Negotiator B: 6
+Final result:
+	Negotiator A: 9
+	Negotiator B: 6
+----
+Deal Reached
+Successful negotiation:
+	Negotiator A: 9
+	Negotiator B: 6
+Final result:
+	Negotiator A: 9
+	Negotiator B: 6
+----
+Deal Reached
+Successful negotiation:
+	Negotiator A: 9
+	Negotiator B: 6
+Final result:
+	Negotiator A: 9
+	Negotiator B: 6
+----
+Deal Reached
+Successful negotiation:
+	Negotiator A: 8
+	Negotiator B: 7
+Final result:
+	Negotiator A: 8
+	Negotiator B: 7
+----
+Deal Reached
+Successful negotiation:
+	Negotiator A: 11
+	Negotiator B: 4
+Final result:
+	Negotiator A: 11
+	Negotiator B: 4
+----
+SCENARIO2
+=====
+prefVal is 10
+prefVal / 2 is 5.0
+prefVal is 10
+prefVal / 2 is 5.0
+Deal Reached
+Successful negotiation:
+	Negotiator A: 2
+	Negotiator B: 7
+Final result:
+	Negotiator A: 2
+	Negotiator B: 7
+----
+prefVal is 10
+prefVal / 2 is 5.0
+Deal Reached
+Successful negotiation:
+	Negotiator A: 6
+	Negotiator B: 1
+Final result:
+	Negotiator A: 6
+	Negotiator B: 1
+----
+prefVal is 10
+prefVal / 2 is 5.0
+Deal Reached
+Successful negotiation:
+	Negotiator A: 7
+	Negotiator B: 2
+Final result:
+	Negotiator A: 7
+	Negotiator B: 2
+----
+prefVal is 10
+prefVal / 2 is 5.0
+Deal Reached
+Successful negotiation:
+	Negotiator A: 7
+	Negotiator B: 2
+Final result:
+	Negotiator A: 7
+	Negotiator B: 2
+----
+prefVal is 10
+prefVal / 2 is 5.0
+Deal Reached
+Successful negotiation:
+	Negotiator A: 7
+	Negotiator B: 2
+Final result:
+	Negotiator A: 7
+	Negotiator B: 2
+----
+prefVal is 10
+prefVal / 2 is 5.0
+Deal Reached
+Successful negotiation:
+	Negotiator A: 8
+	Negotiator B: 3
+Final result:
+	Negotiator A: 8
+	Negotiator B: 3
+----
+prefVal is 10
+prefVal / 2 is 5.0
+Deal Reached
+Successful negotiation:
+	Negotiator A: 6
+	Negotiator B: 1
+Final result:
+	Negotiator A: 6
+	Negotiator B: 1
+----
+prefVal is 10
+prefVal / 2 is 5.0
+Deal Reached
+Successful negotiation:
+	Negotiator A: 7
+	Negotiator B: 2
+Final result:
+	Negotiator A: 7
+	Negotiator B: 2
+----
+prefVal is 10
+prefVal / 2 is 5.0
+Deal Reached
+Successful negotiation:
+	Negotiator A: 6
+	Negotiator B: 1
+Final result:
+	Negotiator A: 6
+	Negotiator B: 1
+----
+prefVal is 10
+prefVal / 2 is 5.0
+Deal Reached
+Successful negotiation:
+	Negotiator A: 8
+	Negotiator B: 3
+Final result:
+	Negotiator A: 8
+	Negotiator B: 3
+----
+                     GREATERTHANHALF(A) VS. IMPROVE(B)
+SCENARIO1
+===
+prefVal is 15
+prefVal / 2 is 7.5
+Deal Reached
+Successful negotiation:
+	Negotiator A: 11
+	Negotiator B: 4
+Final result:
+	Negotiator A: 11
+	Negotiator B: 4
+----
+prefVal is 15
+prefVal / 2 is 7.5
+Deal Reached
+Successful negotiation:
+	Negotiator A: 12
+	Negotiator B: 3
+Final result:
+	Negotiator A: 12
+	Negotiator B: 3
+----
+prefVal is 15
+prefVal / 2 is 7.5
+Deal Reached
+Successful negotiation:
+	Negotiator A: 11
+	Negotiator B: 4
+Final result:
+	Negotiator A: 11
+	Negotiator B: 4
+----
+prefVal is 15
+prefVal / 2 is 7.5
+Deal Reached
+Successful negotiation:
+	Negotiator A: 8
+	Negotiator B: 7
+Final result:
+	Negotiator A: 8
+	Negotiator B: 7
+----
+prefVal is 15
+prefVal / 2 is 7.5
+Deal Reached
+Successful negotiation:
+	Negotiator A: 10
+	Negotiator B: 5
+Final result:
+	Negotiator A: 10
+	Negotiator B: 5
+----
+prefVal is 15
+prefVal / 2 is 7.5
+Deal Reached
+Successful negotiation:
+	Negotiator A: 8
+	Negotiator B: 7
+Final result:
+	Negotiator A: 8
+	Negotiator B: 7
+----
+prefVal is 15
+prefVal / 2 is 7.5
+Deal Reached
+Successful negotiation:
+	Negotiator A: 8
+	Negotiator B: 7
+Final result:
+	Negotiator A: 8
+	Negotiator B: 7
+----
+prefVal is 15
+prefVal / 2 is 7.5
+Deal Reached
+Successful negotiation:
+	Negotiator A: 9
+	Negotiator B: 6
+Final result:
+	Negotiator A: 9
+	Negotiator B: 6
+----
+prefVal is 15
+prefVal / 2 is 7.5
+Deal Reached
+Successful negotiation:
+	Negotiator A: 10
+	Negotiator B: 5
+Final result:
+	Negotiator A: 10
+	Negotiator B: 5
+----
+prefVal is 15
+prefVal / 2 is 7.5
+Deal Reached
+Successful negotiation:
+	Negotiator A: 12
+	Negotiator B: 3
+Final result:
+	Negotiator A: 12
+	Negotiator B: 3
+----
+SCENARIO2
+===
+prefVal is 10
+prefVal / 2 is 5.0
+prefVal is 10
+prefVal / 2 is 5.0
+Deal Reached
+Successful negotiation:
+	Negotiator A: 1
+	Negotiator B: 6
+Final result:
+	Negotiator A: 1
+	Negotiator B: 6
+----
+prefVal is 10
+prefVal / 2 is 5.0
+Deal Reached
+Successful negotiation:
+	Negotiator A: 6
+	Negotiator B: 1
+Final result:
+	Negotiator A: 6
+	Negotiator B: 1
+----
+prefVal is 10
+prefVal / 2 is 5.0
+Deal Reached
+Successful negotiation:
+	Negotiator A: 9
+	Negotiator B: 4
+Final result:
+	Negotiator A: 9
+	Negotiator B: 4
+----
+prefVal is 10
+prefVal / 2 is 5.0
+Deal Reached
+Successful negotiation:
+	Negotiator A: 6
+	Negotiator B: 1
+Final result:
+	Negotiator A: 6
+	Negotiator B: 1
+----
+prefVal is 10
+prefVal / 2 is 5.0
+Deal Reached
+Successful negotiation:
+	Negotiator A: 8
+	Negotiator B: 3
+Final result:
+	Negotiator A: 8
+	Negotiator B: 3
+----
+prefVal is 10
+prefVal / 2 is 5.0
+Deal Reached
+Successful negotiation:
+	Negotiator A: 9
+	Negotiator B: 4
+Final result:
+	Negotiator A: 9
+	Negotiator B: 4
+----
+prefVal is 10
+prefVal / 2 is 5.0
+prefVal is 10
+prefVal / 2 is 5.0
+Deal Reached
+Successful negotiation:
+	Negotiator A: 5
+	Negotiator B: 5
+Final result:
+	Negotiator A: 5
+	Negotiator B: 5
+----
+prefVal is 10
+prefVal / 2 is 5.0
+Deal Reached
+Successful negotiation:
+	Negotiator A: 8
+	Negotiator B: 3
+Final result:
+	Negotiator A: 8
+	Negotiator B: 3
+----
+prefVal is 10
+prefVal / 2 is 5.0
+Deal Reached
+Successful negotiation:
+	Negotiator A: 6
+	Negotiator B: 1
+Final result:
+	Negotiator A: 6
+	Negotiator B: 1
+----
+prefVal is 10
+prefVal / 2 is 5.0
+prefVal is 10
+prefVal / 2 is 5.0
+Deal Reached
+Successful negotiation:
+	Negotiator A: 9
+	Negotiator B: 4
+Final result:
+	Negotiator A: 9
+	Negotiator B: 4
+----
+                        GREATERTHANHALFV2(A) IMPROVE(B)
+SCENARIO1
+===
+
+Deal Reached
+Successful negotiation:
+	Negotiator A: 8
+	Negotiator B: 7
+Final result:
+	Negotiator A: 8
+	Negotiator B: 7
+----
+Deal Reached
+Successful negotiation:
+	Negotiator A: 10
+	Negotiator B: 5
+Final result:
+	Negotiator A: 10
+	Negotiator B: 5
+----
+Deal Reached
+Successful negotiation:
+	Negotiator A: 9
+	Negotiator B: 6
+Final result:
+	Negotiator A: 9
+	Negotiator B: 6
+----
+Deal Reached
+Successful negotiation:
+	Negotiator A: 9
+	Negotiator B: 6
+Final result:
+	Negotiator A: 9
+	Negotiator B: 6
+----
+Deal Reached
+Successful negotiation:
+	Negotiator A: 8
+	Negotiator B: 7
+Final result:
+	Negotiator A: 8
+	Negotiator B: 7
+----
+Deal Reached
+Successful negotiation:
+	Negotiator A: 9
+	Negotiator B: 6
+Final result:
+	Negotiator A: 9
+	Negotiator B: 6
+----
+Deal Reached
+Successful negotiation:
+	Negotiator A: 10
+	Negotiator B: 5
+Final result:
+	Negotiator A: 10
+	Negotiator B: 5
+----
+Deal Reached
+Successful negotiation:
+	Negotiator A: 9
+	Negotiator B: 6
+Final result:
+	Negotiator A: 9
+	Negotiator B: 6
+----
+Deal Reached
+Successful negotiation:
+	Negotiator A: 10
+	Negotiator B: 5
+Final result:
+	Negotiator A: 10
+	Negotiator B: 5
+----
+Deal Reached
+Successful negotiation:
+	Negotiator A: 8
+	Negotiator B: 7
+Final result:
+	Negotiator A: 8
+	Negotiator B: 7
+----
+SCENARIO2
+Deal Reached
+Successful negotiation:
+	Negotiator A: 6
+	Negotiator B: 1
+Final result:
+	Negotiator A: 6
+	Negotiator B: 1
+----
+Deal Reached
+Successful negotiation:
+	Negotiator A: 6
+	Negotiator B: 1
+Final result:
+	Negotiator A: 6
+	Negotiator B: 1
+----
+Deal Reached
+Successful negotiation:
+	Negotiator A: 6
+	Negotiator B: 1
+Final result:
+	Negotiator A: 6
+	Negotiator B: 1
+----
+Deal Reached
+Successful negotiation:
+	Negotiator A: 8
+	Negotiator B: 3
+Final result:
+	Negotiator A: 8
+	Negotiator B: 3
+----
+Deal Reached
+Successful negotiation:
+	Negotiator A: 5
+	Negotiator B: 5
+Final result:
+	Negotiator A: 5
+	Negotiator B: 5
+----
+Deal Reached
+Successful negotiation:
+	Negotiator A: 5
+	Negotiator B: 5
+Final result:
+	Negotiator A: 5
+	Negotiator B: 5
+----
+Deal Reached
+Successful negotiation:
+	Negotiator A: 6
+	Negotiator B: 6
+Final result:
+	Negotiator A: 6
+	Negotiator B: 6
+----
+Deal Reached
+Successful negotiation:
+	Negotiator A: 5
+	Negotiator B: 5
+Final result:
+	Negotiator A: 5
+	Negotiator B: 5
+----
+Deal Reached
+Successful negotiation:
+	Negotiator A: 5
+	Negotiator B: 5
+Final result:
+	Negotiator A: 5
+	Negotiator B: 5
+----
+Deal Reached
+Successful negotiation:
+	Negotiator A: 7
+	Negotiator B: 7
+Final result:
+	Negotiator A: 7
+	Negotiator B: 7
+----

@@ -1,0 +1,25 @@
+Maximum recursion (line 56)
+other two are incorrect outputs
+
+
+A B C
+A -> B
+3 items. 
+Prove one of the 
+items true
+
+A -> B
+B -> C
+
+all we know is A true
+
+B = "buffalo"
+{ B: "buffalo" }
+
+expression including 
+multiple implications
+
+A -> B 
+A -> C
+
+Prove B C or B and C
